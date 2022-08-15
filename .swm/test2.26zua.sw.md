@@ -4,22 +4,37 @@ name: test2
 file_version: 1.0.2
 app_version: 0.9.4-0
 file_blobs:
-  src/index.js: 2e212b85f9c0b92bbc488f23ce2e9feb5c9a46ca
+  src/index.js: 55af60a200dc7bd8028be9232c47008b65855981
 ---
 
 function Y
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/index.js
 ```javascript
-⬜ 4        console.log('x');
-⬜ 5      }
-⬜ 6      
-🟩 7      function y() {
-🟩 8        console.log('y')
-🟩 9      }
-🟩 10     
-⬜ 11     x();
-⬜ 12     y();
+⬜ 6        console.log('x');
+⬜ 7      }
+⬜ 8      
+🟩 9      function yx() {
+🟩 10       console.log('y')
+🟩 11     }
+⬜ 12     
+⬜ 13     x();
+```
+
+<br/>
+
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/index.js
+```javascript
+⬜ 3      }
+⬜ 4      
+⬜ 5      function z() {
+🟩 6        console.log('x');
+⬜ 7      }
+⬜ 8      
+⬜ 9      function yx() {
 ```
 
 <br/>
