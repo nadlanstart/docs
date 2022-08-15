@@ -3,7 +3,7 @@ function x() {
 }
 
 function z() {
-  console.log('z');
+  console.log('x');
 }
 
 function yx() {
