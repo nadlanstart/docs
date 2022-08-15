@@ -6,7 +6,7 @@ function z() {
   console.log('z');
 }
 
-function y() {
+function yx() {
   console.log('y')
 }
 
