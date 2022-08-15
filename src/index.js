@@ -1,4 +1,4 @@
-function x() {
+function z() {
   console.log('x');
 }
 
